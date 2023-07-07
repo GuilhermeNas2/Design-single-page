@@ -1,7 +1,7 @@
 <h1 align="center"> Single Page </h1>
-   Design básico de uma landpage que achei na internet e tentei recriar    
+    
 <p align="center">
-   
+    Design básico de uma landpage que achei na internet e tentei recriar  
 </p>
 
 <p align="center">
